@@ -8,7 +8,7 @@
 <h3>node.js</h3>
 <img src="./imgs/node.jpg">
 
-# 폴더구조
+# Folder Structure
 
 <img src="./imgs/folder.jpg">
 
