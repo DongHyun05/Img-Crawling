@@ -137,7 +137,7 @@ dist
 .webpack/
 img/
 # Optional stylelint cache
-*.jpg
+
 # SvelteKit build / generate output
 .svelte-kit
 
