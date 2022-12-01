@@ -10,7 +10,7 @@
 
 # 폴더구조
 
-<img src="./imgs/folder">
+<img src="./imgs/folder.jpg">
 
 # API
 
