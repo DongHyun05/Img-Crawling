@@ -11,10 +11,9 @@ const client = new GoogleImages(process.env.ID, process.env.API_KEY);
 
 // keyword values에 가져올 이미지의 단어를 입력
 // 이미지 불러오는 과정에서 오류 생길시 API_KEY 새로 받아서 적용
-// Custom Search API 사용
-const keyWord = "";
+const keyWord = "제니";
 const pageStVal = 1;
-const pageEndVal = 201;
+const pageEndVal = 101;
 
 let saveDir = __dirname + "/img" + "/" + keyWord;
 
