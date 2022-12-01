@@ -6,4 +6,4 @@
 # API
 
 <h3>Custom Search API</h3>
-<img src="./img/rea.jpg">
+<img src="./rea.jpg">
