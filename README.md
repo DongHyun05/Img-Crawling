@@ -6,16 +6,16 @@
 # Stack
 
 <h3>node.js</h3>
-<img src="./node.jpg">
+<img src="./imgs/node.jpg">
 
 # 폴더구조
 
-<img src="./folder">
+<img src="./imgs/folder">
 
 # API
 
 <h3>Custom Search API</h3>
-<img src="./rea.jpg">
+<img src="./imgs/rea.jpg">
 
 # 사용방법
 
